@@ -1,8 +1,8 @@
 <?php
-$servername = "fdb30.awardspace.net";
-$username ="3814912_users";
-$password = "testusers123";
-$database = "3814912_users";
+$servername = "";
+$username ="";
+$password = "";
+$database = "";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
